@@ -16,7 +16,7 @@ namespace SonetaAddon2
         [Action("Test", Target = ActionTarget.Menu, Priority = 10002)]
         public object xdd()
         {
-            return new MessageBoxInformation("TEST", "test1");
+            return new MessageBoxInformation("TEST", "Po githubie galaz 2");
         }
     }
 }

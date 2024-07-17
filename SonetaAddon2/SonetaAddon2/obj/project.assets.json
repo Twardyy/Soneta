@@ -13424,11 +13424,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.csproj",
+      "projectUniqueName": "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.csproj",
       "projectName": "SonetaAddon2",
-      "projectPath": "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.csproj",
+      "projectPath": "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.csproj",
       "packagesPath": "C:\\Users\\HubertGajdowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2\\obj\\",
+      "outputPath": "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
