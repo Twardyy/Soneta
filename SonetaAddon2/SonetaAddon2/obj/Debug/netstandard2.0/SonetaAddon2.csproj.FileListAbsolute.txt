@@ -1,0 +1,10 @@
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\bin\Debug\netstandard2.0\SonetaAddon2.deps.json
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\bin\Debug\netstandard2.0\SonetaAddon2.dll
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\bin\Debug\netstandard2.0\SonetaAddon2.pdb
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\SonetaAddon2\obj\Debug\netstandard2.0\SonetaAddon2.csproj.AssemblyReference.cache
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\SonetaAddon2\obj\Debug\netstandard2.0\SonetaAddon2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\SonetaAddon2\obj\Debug\netstandard2.0\SonetaAddon2.AssemblyInfoInputs.cache
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\SonetaAddon2\obj\Debug\netstandard2.0\SonetaAddon2.AssemblyInfo.cs
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\SonetaAddon2\obj\Debug\netstandard2.0\SonetaAddon2.csproj.CoreCompileInputs.cache
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\SonetaAddon2\obj\Debug\netstandard2.0\SonetaAddon2.dll
+C:\Users\HubertGajdowski\source\repos\SonetaAddon2\SonetaAddon2\SonetaAddon2\obj\Debug\netstandard2.0\SonetaAddon2.pdb

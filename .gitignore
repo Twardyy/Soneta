@@ -1,0 +1,8 @@
+# Wyklucz katalog .vs
+.vs/
+
+# Wyklucz inne pliki i foldery specyficzne dla Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
