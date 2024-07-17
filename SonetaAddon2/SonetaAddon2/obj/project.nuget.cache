@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0jgcs/C0Ko=",
+  "dgSpecHash": "heBBEgLyloM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.csproj",
+  "projectFilePath": "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HubertGajdowski\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
     "C:\\Users\\HubertGajdowski\\.nuget\\packages\\csvhelper\\27.0.1\\csvhelper.27.0.1.nupkg.sha512",

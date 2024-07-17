@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj": {}
+    "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj": {
+    "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj",
+        "projectUniqueName": "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj",
         "projectName": "SonetaAddon2.UI",
-        "projectPath": "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj",
+        "projectPath": "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2.UI\\SonetaAddon2.UI.csproj",
         "packagesPath": "C:\\Users\\HubertGajdowski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HubertGajdowski\\source\\repos\\SonetaAddon2\\SonetaAddon2\\SonetaAddon2.UI\\obj\\",
+        "outputPath": "C:\\Users\\HubertGajdowski\\Desktop\\soneta\\Soneta\\SonetaAddon2\\SonetaAddon2.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
             "Soneta.Products.Modules": {
               "include": "Compile, Build, BuildTransitive",
               "target": "Package",
-              "version": "[2210.2.2, )"
+              "version": "[2404.1.5, )"
             },
             "System.ValueTuple": {
               "include": "Compile",
